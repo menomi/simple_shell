@@ -12,4 +12,5 @@ Simple_shell is a simple UNIX command language interpreter that reads commands f
 Authors
 
 Melat Tekle https://github.com/menomi
+
 Beka Dessalegn https://github.com/bekaDessalegn
